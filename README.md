@@ -1,6 +1,6 @@
 # Salut ! Je suis Nada Hamzia 👋
 
-Développeuse Java / Spring Boot passionnée par les applications web et la gestion de données.  
+Développeuse Web /  passionnée par les applications web et la gestion de données.  
 
 ## 🛠️ Compétences
 - Backend : Java, Spring Boot, REST APIs
@@ -17,6 +17,5 @@ Développeuse Java / Spring Boot passionnée par les applications web et la gest
 ![Nada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadah9&show_icons=true&theme=radical)
 
 ## 📫 Contact
-- Email : ton.email@example.com
-- Portfolio : [https://tonportfolio.com](https://tonportfolio.com)
-- LinkedIn : [https://linkedin.com/in/nadah9](https://linkedin.com/in/nadah9)
+- Email : hamzianada0@gmail.com
+LinkedIn : [Nada Hamzia](https://www.linkedin.com/in/nada-hamzia-90999632a/)
